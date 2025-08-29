@@ -170,7 +170,6 @@ Make sure you have Python 3.7+ installed on your system.
 ### Advanced Modeling
 - **Store-specific models** for individual location forecasting
 - **Ensemble methods** combining regression and time series approaches
-- **Deep learning models** (LSTM, Prophet) for complex pattern recognition
 
 ### Data Integration
 - **External factors**: Holiday calendars, promotional data, competitor information
